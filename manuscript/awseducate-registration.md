@@ -4,28 +4,28 @@
 <p align="center"><img src="images/awseducate-registration/01.png"  width="900" height="504" align="middle"/></p>
 <h4 align="middle">Figura 01 - Convite Cadastro AWS Educate</h4>
 
-<p align="center"><img src="images/awseducate-registration/02.png"  width="800" height="389" align="middle"/></p>
-<h4 align="middle">Figura 02 - Docker Hub</h4>
-<p align="center"><img src="images/awseducate-registration/03.png"  width="800" height="389" align="middle"/></p>
-<h4 align="middle">Figura 03 - Docker Hub</h4>
-<p align="center"><img src="images/awseducate-registration/04.png"  width="800" height="389" align="middle"/></p>
-<h4 align="middle">Figura 04 - Docker Hub</h4>
-<p align="center"><img src="images/awseducate-registration/05.png"  width="800" height="389" align="middle"/></p>
-<h4 align="middle">Figura 05 - Docker Hub</h4>
-<p align="center"><img src="images/awseducate-registration/06.png"  width="800" height="389" align="middle"/></p>
-<h4 align="middle">Figura 06 - Docker Hub</h4>
-<p align="center"><img src="images/awseducate-registration/07.png"  width="800" height="389" align="middle"/></p>
-<h4 align="middle">Figura 07 - Docker Hub</h4>
-<p align="center"><img src="images/awseducate-registration/08.png"  width="800" height="389" align="middle"/></p>
-<h4 align="middle">Figura 08 - Docker Hub</h4>
-<p align="center"><img src="images/awseducate-registration/09.png"  width="800" height="389" align="middle"/></p>
-<h4 align="middle">Figura 09 - Docker Hub</h4>
-<p align="center"><img src="images/awseducate-registration/10.png"  width="800" height="389" align="middle"/></p>
-<h4 align="middle">Figura 10 - Docker Hub</h4>
-<p align="center"><img src="images/awseducate-registration/11.png"  width="800" height="389" align="middle"/></p>
-<h4 align="middle">Figura 11 - Docker Hub</h4>
-<p align="center"><img src="images/awseducate-registration/12.png"  width="800" height="389" align="middle"/></p>
-<h4 align="middle">Figura 12 - Docker Hub</h4>
+<p align="center"><img src="images/awseducate-registration/02.png"  width="900" height="453" align="middle"/></p>
+<h4 align="middle">Figura 02 - Cadastro AWS Educate</h4>
+<p align="center"><img src="images/awseducate-registration/03.png"  width="900" height="451" align="middle"/></p>
+<h4 align="middle">Figura 03 - Termos e Condições AWS Educate</h4>
+<p align="center"><img src="images/awseducate-registration/04.png"  width="900" height="495" align="middle"/></p>
+<h4 align="middle">Figura 04 - E-mail de Verificação</h4>
+<p align="center"><img src="images/awseducate-registration/05.png"  width="900" height="503" align="middle"/></p>
+<h4 align="middle">Figura 05 - E-mail de Aprovação de Cadastro</h4>
+<p align="center"><img src="images/awseducate-registration/06.png"  width="900" height="453" align="middle"/></p>
+<h4 align="middle">Figura 06 - Cadastro de Senha do AWS Educate</h4>
+<p align="center"><img src="images/awseducate-registration/07.png"  width="900" height="439" align="middle"/></p>
+<h4 align="middle">Figura 07 - Primeiro acesso ao AWS Educate</h4>
+<p align="center"><img src="images/awseducate-registration/08.png"  width="900" height="449" align="middle"/></p>
+<h4 align="middle">Figura 08 - Acesso a Sala de Aula</h4>
+<p align="center"><img src="images/awseducate-registration/09.png"  width="400" height="285" align="middle"/></p>
+<h4 align="middle">Figura 09 - Confirmação de Acesso ao Vocareum</h4>
+<p align="center"><img src="images/awseducate-registration/10.png"  width="900" height="435" align="middle"/></p>
+<h4 align="middle">Figura 10 - Termo de Uso Ambiente Vocareum</h4>
+<p align="center"><img src="images/awseducate-registration/11.png"  width="900" height="450" align="middle"/></p>
+<h4 align="middle">Figura 11 - Ambiente Vocareum</h4>
+<p align="center"><img src="images/awseducate-registration/12.png"  width="900" height="452" align="middle"/></p>
+<h4 align="middle">Figura 12 - Console de Serviços AWS</h4>
 
 <p align="justify">Existe ainda a possibilidade da criação de um cadastro e hospedagem de imagens personalizadas, caso queira disponibilizar uma aplicação para testes, ou até mesmo criar um ambiente de produção, o Docker Hub possui 03 planos de assinatura, Figura 02:</p>
 
