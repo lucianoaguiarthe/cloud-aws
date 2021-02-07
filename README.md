@@ -1,17 +1,22 @@
 
 <p align="center"><img src="manuscript/images/banner-cloud.png"  width="600" height="345" align="middle"/></p>
 
-<p align="justify">Serviços em Cloud Computing são tendências arquiteturais de mercado, diante principalmente da caracterização de seus serviços como: resiliência, autoescabilibilidade, disponibilidade, entre outros, o propósito deste material é apresentar alguns serviços do ambiente de nuvem da Amazon Web Service.</p>
-<p align="justify">Irei disponibilizar os capítulos bimestralmente ao longo deste semestre, espero que aprendam, e qualquer duvida podem me contactar por skype ou hangout no e-mail a seguir.</p>
+<p align="justify">Ambiente no qual será disponibilizado material do Curso de Fundamentos em Computação em Nuvem na AWS.</p>
 
 > Autor: **[Luciano de Aguiar Monteiro](https://github.com/lucianoaguiarthe)**
 
 > E-mail: lucianoaguiarthe@gmail.com
+> 
+> Site: **[http://www.lucianoaguiar.com.br](http://www.lucianoaguiar.com.br)**
 
-## Sumário
 
+## Apresentação
+Slide Curso [Clique Aqui](manuscript/anexos//slide/Cloud_Fundamentals.pdf)
 
+## Manuais
 1. [Cadastro AWS Educate](manuscript/awseducate-registration.md)
 2. [Acessando uma Instância na AWS](manuscript/acesso.md)
-1. [Configurando Serviços EC2](manuscript/apache.md)
-2. [Configurando Cluster na AWS](manuscript/squid.md)
+
+
+## Laboratórios
+Construindo um site estático com Amazon S3 [Clique Aqui](manuscript/anexos/laoratorios/site_static_bucket.pdf)
