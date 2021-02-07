@@ -69,9 +69,9 @@ Em seguida, clique na opção <b>‘Load’</b>.
 
 <p align="justify">Acrescente as linhas descritas a seguir na última do arquivo:</p>
 
-<p align="center"><img src="images/acesso-instancia/file-ssh_config.png"  width="250" height="111" align="middle"/></p>
+<p align="center"><img src="images/acesso-instancia/file-ssh_config.png"  width="500" height="142" align="middle"/></p>
 
-<p align="justify">Onde <b>host</b> é o nome que será utilizado para chamar o servidor, <b>Port</b> a porta de acesso, <b>IdentityFile</b> a localização da chave privada, <b>User</b> é o usuário do sistema Operacional.</p>
+<p align="justify">Onde <b>host</b> é o nome que será utilizado para chamar o servidor, <b>Hostname</b> nome que a AWS atribuiu para a instância, <b>Port</b> a porta de acesso, <b>IdentityFile</b> a localização da chave privada, <b>User</b> é o usuário do sistema Operacional.</p>
 
 <p align="justify">Para acessar o servidor basta digitar: <b>ssh server-aws</b> </p>
 
