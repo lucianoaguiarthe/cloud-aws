@@ -19,8 +19,8 @@ Slide Curso [Clique Aqui](manuscript/anexos//slide/Cloud_Fundamentals.pdf)
 
 
 ## Laboratórios
-Construindo um site estático com Amazon S3 [Clique Aqui](manuscript/anexos/laoratorios/site_static_bucket.pdf)
+Construindo um site estático com Amazon S3 [Clique Aqui](manuscript/anexos/laboratorios/site_static_bucket.pdf)
 
-Criando uma Instância Amazon EC2 [Clique Aqui](manuscript/anexos/laoratorios/ec2-instance.pdf)
+Criando uma Instância Amazon EC2 [Clique Aqui](manuscript/anexos/laboratorios/ec2-instance.pdf)
 
-Criando uma VPC na AWS [Clique Aqui](manuscript/anexos/laoratorios/vpc.pdf)
+Criando uma VPC na AWS [Clique Aqui](manuscript/anexos/laboratorios/vpc.pdf)
