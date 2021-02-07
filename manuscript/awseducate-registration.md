@@ -1,7 +1,7 @@
 # Configuração Docker Hub
 <p align="justify">O Docker Hub (https://hub.docker.com/) é um repositório remoto de imagem de container docker, possui uma grande quantidade de imagens, Figura 01, pré-configuradas facilitando a vida dos desenvolvedores.</p>
 
-<p align="center"><img src="images/awseducate-registration/01.png"  width="800" height="448" align="middle"/></p>
+<p align="center"><img src="images/awseducate-registration/01.png"  width="900" height="504" align="middle"/></p>
 <h4 align="middle">Figura 01 - Convite Cadastro AWS Educate</h4>
 
 <p align="center"><img src="images/awseducate-registration/02.png"  width="800" height="389" align="middle"/></p>
