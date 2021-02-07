@@ -11,6 +11,7 @@
 ## Sumário
 
 
-1. [Acessando uma Instância na AWS](manuscript/acesso.md)
+1. [Cadastro AWS Educate](manuscript/awseducate-registration.md)
+2. [Acessando uma Instância na AWS](manuscript/acesso.md)
 1. [Configurando Serviços EC2](manuscript/apache.md)
 2. [Configurando Cluster na AWS](manuscript/squid.md)
