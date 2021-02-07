@@ -1,14 +1,24 @@
 # ACESSANDO UMA INSTÂNCIA NA AWS
-<p align="justify">O propósito deste material é lhe orientar como o administrador de sistemas deve acessar uma instância na AWS utilizando um sistema operacional Windows, diante do exposto considera-se que a instância já deva está criado no ambiente e a chave privada gerada e baixada em seu computador. A chave privada é um arquivo que possui uma extensão <b>pem</b>.</p>
+<p align="justify">O propósito deste material é orientar como o administrador de sistemas deve acessar uma instância na AWS, diante do exposto considera-se que a instância já deva está criado no ambiente e a chave privada gerada e baixada em seu computador. A chave privada é um arquivo que possui uma extensão <b>pem</b>.</p>
+
+## Acessando a Partir de Sistema Operacional Windows
 
 <p align="justify">Para acessar acessar remotamente um servidor deve fazer o download de uma aplicação de acesso remoto sugiro o <b>Putty</b>, disponibilizei o link do  instalador para os sistemas operacionais Windows de 32 bits e 64 bits lobo abaixo, neste pacote de instação é também disponibilizado o <b>puttygen</b>, aplicativo necessário para converter a chave primário para o padrão Windows, já que a chave disponibilizada pela a AWS é para ambiente Linux</p>
 
-[Putty 32 bits](https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.70-installer.msi)
+[PuttyGen](https://the.earth.li/~sgtatham/putty/latest/w64/puttygen.exe)
 
-[Putty 64 bits](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.70-installer.msi)
+[Putty 64 bits](https://the.earth.li/~sgtatham/putty/latest/w64/putty.zip)
 
 
 <p align="justify">Ao concluir a instação acesse o menu iniciar o menu Putty e abra o aplicativo Puttygen, confore figura 01, abre a chave privada que você baixou no Amazon apertando no botão load.</p>
+
+<p align="justify">A janela a seguir apresentará opções sobre o tipo de chave que um usuário deseja gerar. Selecione a opção ‘RSA’ (Rivest–Shamir–Adleman). RSA é um criptosistema de chave pública comumente usado para transmitir dados com segurança.</p>
+
+Em seguida, clique na opção <b>‘Load’</b>.
+
+<p align="justify">(Como o PuTTY é compatível com seu formato de arquivo nativo, ele mostrará apenas arquivos com extensão .ppk. Portanto, os usuários devem escolher a opção 'Todos os arquivos' na barra suspensa. Ele exibirá todos os arquivos principais incluídos no .pem Arquivo.)</p>
+
+
 <p align="center"><img src="images/acesso-instancia/01 - puttygen.png"  width="478" height="469" align="middle"/></p>
 <h4 align="middle">Figura 01 - PuttyGen</h4>
 
@@ -17,7 +27,7 @@
 
 <p align="justify">Em seguida selecione o botão <b>Save private key</b> será perguntado se você tem certeza que não quer proteger a chave com uma senha, como é um ambiente de teste selecione sim, abribua um nome e local para salvamento, Figura 03.</p>
 
-<p align="center"><img src="images/acesso-instancia/03 - save-private-key.png"  width="668" height="474" align="middle"/></p>
+<p align="center"><img src="images/acesso-instancia/03 - save-private-key.png"  width="400" height="318" align="middle"/></p>
 <h4 align="middle">Figura 03 - Chave Privada</h4>
 
 <p align="justify">Acesso o EC2 e verifique o endereçamento de sua instância conforme exemplificação na Figura 4, em que está destacado o retângulo em vermelho com o IP público da instância e o nome atribuído pela AWS. Você necessitará desta informação para seu acesso remoto</p>
@@ -44,8 +54,33 @@
 <p align="justify">Ao acessar a instância pela primeira vez vocês terão privilégios de usários comuns, para tornarem-se usuários administradores e poderem instar serviços e aplicações digitem <b>sudo su</b>, transformando seu prompt para o usuário <b>root</b> do sistema.</p>
 <p align="center"><img src="images/acesso-instancia/09 - sessao-aws.png"  width="662" height="417" align="middle"/></p>
 <h4 align="middle">Figura 09 - Acesso Instância</h4>
+
+## Acessando a Partir de Sistema Operacional Linux e MacOS
+
+<p align="justify">O acesso a partir de sistema operacional Unix e Linux torna-se mais fácil considerando que possui cliente ssh, e não necessita de conversão de chaves</p>
+
+<p align="justify">Para tornar mais simples o acesso e sem necessidade de digitar localização da chave de acesso, nome de usuário e e endereço de máquina, uma sugestão é passar todos estes parâmetros no arquivo cliente do ssh o arquivo.</p>
+
+<p align="justify">O arquivo a ser alterado fica no diretório <b>"/etc/ssh/"</b> e chamado <b>ssh_config</b>.</p>
+
+<p align="justify">Abra o arquivo com o seu editor de texto preferido, podendo em meu exemplo estou utilizando o vim, conforme comando descrito abaixo:</p>
+
+<i>vim /etc/ssh/ssh_config</i>
+
+<p align="justify">Acrescente as linhas descritas a seguir na última do arquivo:</p>
+
+host server-aws
+ Port 22
+ IdentityFile ~/.ssh/icev.pem
+ User ubuntu
+
+<p align="justify">Onde <b>host</b> é o nome que será utilizado para chamar o servidor, <b>Port</b> a porta de acesso, <b>IdentityFile</b> a localização da chave privada, <b>User</b> é o usuário do sistema Operacional.</p>
+
+<p align="justify">Para acessar o servidor basta digitar: <b>ssh server-aws</b> </p>
+
 <p align="justify">Bons Estudos a Todos</p>
 <p align="justify">"A mente que se abre para uma nova ideia, jamais voltará para o seu tamanho original"
 </p>
 Albert Einstein
 
+[Início](/README.md)
