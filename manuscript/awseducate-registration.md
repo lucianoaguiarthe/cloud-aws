@@ -4,7 +4,7 @@ Fonte: (AWS,2021) https://aws.amazon.com/pt/education/awseducate/students/ </p>
 
 <p align="justify">Seu cadastro pode ser realizado pelo estudante, todavia o acesso há uma turma somente é possível a patir de um convite do professor cadastrado. O Foco desta unidade é neste aspecto, apresentar como é realizado o cadastro do aluno a partir do convite realizado pelo professor</p>
 
-<p align="justify">O aluno recebe uma notificação em seu e-mail, conforme Figura 01, informe que o mesmo foi convidado para participar do programa e com um link para cadastro</p>.
+<p align="justify">O aluno recebe uma notificação em seu e-mail, conforme Figura 01, informe que o mesmo foi convidado para participar do programa e com um link para cadastro.</p>
 
 <p align="center"><img src="images/awseducate-registration/01.png"  width="900" height="504" align="middle"/></p>
 <h4 align="middle">Figura 01 - Convite Cadastro AWS Educate</h4>
