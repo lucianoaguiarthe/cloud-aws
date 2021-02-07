@@ -1,6 +1,6 @@
 # AWS Educate
 <p align="justify">O AWS Educate é uma iniciativa global da Amazon que oferece aos estudantes recursos abrangentes para o desenvolvimento de competências relacionadas à nuvem. Trata-se de um currículo gratuito que fornece acesso a conteúdo, treinamento, trajetórias, serviços da AWS e ao AWS Educate Job Board com oportunidades de emprego.</p>
-Fonte: (AWS,2021) https://aws.amazon.com/pt/education/awseducate/students/
+Fonte: (AWS,2021) https://aws.amazon.com/pt/education/awseducate/students/ </p>
 
 <p align="justify">Seu cadastro pode ser realizado pelo estudante, todavia o acesso há uma turma somente é possível a patir de um convite do professor cadastrado. O Foco desta unidade é neste aspecto, apresentar como é realizado o cadastro do aluno a partir do convite realizado pelo professor</p>
 
