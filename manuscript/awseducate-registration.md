@@ -2,9 +2,9 @@
 <p align="justify">O AWS Educate é uma iniciativa global da Amazon que oferece aos estudantes recursos abrangentes para o desenvolvimento de competências relacionadas à nuvem. Trata-se de um currículo gratuito que fornece acesso a conteúdo, treinamento, trajetórias, serviços da AWS e ao AWS Educate Job Board com oportunidades de emprego.</p>
 Fonte: (AWS,2021) https://aws.amazon.com/pt/education/awseducate/students/ </p>
 
-<p align="justify">Seu cadastro pode ser realizado pelo estudante, todavia o acesso há uma turma somente é possível a patir de um convite do professor cadastrado. O Foco desta unidade é neste aspecto, apresentar como é realizado o cadastro do aluno a partir do convite realizado pelo professor</p>
+<p align="justify">Seu cadastro pode ser realizado pelo estudante, todavia o acesso a uma turma somente é possível a patir de um convite do professor cadastrado. O Foco desta unidade é neste aspecto, apresentar como é realizado o cadastro do aluno a partir do convite realizado pelo professor</p>
 
-<p align="justify">O aluno recebe uma notificação em seu e-mail, conforme Figura 01, informe que o mesmo foi convidado para participar do programa e com um link para cadastro.</p>
+<p align="justify">O aluno recebe uma notificação em seu e-mail, conforme Figura 01, informando que o mesmo foi convidado para participar do programa e com um link para cadastro.</p>
 
 <p align="center"><img src="images/awseducate-registration/01.png"  width="900" height="504" align="middle"/></p>
 <h4 align="middle">Figura 01 - Convite Cadastro AWS Educate</h4>
@@ -18,15 +18,15 @@ Fonte: (AWS,2021) https://aws.amazon.com/pt/education/awseducate/students/ </p>
 <p align="center"><img src="images/awseducate-registration/03.png"  width="900" height="451" align="middle"/></p>
 <h4 align="middle">Figura 03 - Termos e Condições AWS Educate</h4>
 
-<p align="justify">Ao concluir o cadastro o aluno receberá um e-mail de verificação, cuidado especial deve ser dado, visto que o mesmo pode caixar em sua caixa de spam.</p>
+<p align="justify">Ao concluir o cadastro o aluno receberá um e-mail de verificação, cuidado especial deve ser dado, visto que o mesmo pode cair em sua caixa de spam.</p>
 <p align="center"><img src="images/awseducate-registration/04.png"  width="900" height="495" align="middle"/></p>
 <h4 align="middle">Figura 04 - E-mail de Verificação</h4>
 
-<p align="justify">A Equipe da AWS irá realizar um análise dos dados cadastro e após um período, no qual não está preestabelecido de quanto tempo, o cadastro será aprovado, geralmente demora no máximo 30 minutos</p>
+<p align="justify">A Equipe da AWS irá realizar um análise dos dados cadastrado e após um período, no qual não está preestabelecido de quanto tempo, o cadastro será aprovado, geralmente demora no máximo 30 minutos</p>
 <p align="center"><img src="images/awseducate-registration/05.png"  width="900" height="503" align="middle"/></p>
 <h4 align="middle">Figura 05 - E-mail de Aprovação de Cadastro</h4>
 
-<p align="justify">Após a aprovação do cadastro, o aluno deve definir uma senha de acesso do AWS Educate, Figura 06, a partir do link recebi no e-mail de aprovação.</p>
+<p align="justify">Após a aprovação do cadastro, o aluno deve definir uma senha de acesso do AWS Educate, Figura 06, a partir do link recebido no e-mail de aprovação.</p>
 <p align="center"><img src="images/awseducate-registration/06.png"  width="900" height="453" align="middle"/></p>
 <h4 align="middle">Figura 06 - Cadastro de Senha do AWS Educate</h4>
 
@@ -35,11 +35,11 @@ Fonte: (AWS,2021) https://aws.amazon.com/pt/education/awseducate/students/ </p>
 <p align="center"><img src="images/awseducate-registration/07.png"  width="900" height="439" align="middle"/></p>
 <h4 align="middle">Figura 07 - Primeiro acesso ao AWS Educate</h4>
 
-<p align="justify">No ambiente da AWS Educate será exibida todas as turmas na qual o aluno faz parte, ao acessar uma delas o usuário será direcionado para outro ambiente administrado por um parceiro da AWS a Vocareum, é ele que irá disponibilizar o acesso aos serviçocs da AWS.</p>
+<p align="justify">No ambiente da AWS Educate será exibida todas as turmas no qual o aluno faz parte, ao acessar uma delas o usuário será direcionado para outro ambiente administrado por um parceiro da AWS a Vocareum, é ele que irá disponibilizar o acesso aos serviçocs da AWS.</p>
 <p align="center"><img src="images/awseducate-registration/08.png"  width="900" height="449" align="middle"/></p>
 <h4 align="middle">Figura 08 - Acesso a Sala de Aula</h4>
 
-<p align="justify">O clicar para acessar a turma escolhida será apresentado a mensagem de confirmação que o aluno está saindo do ambiente da AWS, conforme Figura 09.</p>
+<p align="justify">Ao clicar para acessar a turma escolhida será apresentado a mensagem de confirmação que o aluno está saindo do ambiente da AWS, conforme Figura 09.</p>
 <p align="center"><img src="images/awseducate-registration/09.png"  width="400" height="285" align="middle"/></p>
 <h4 align="middle">Figura 09 - Confirmação de Acesso ao Vocareum</h4>
 
@@ -47,7 +47,7 @@ Fonte: (AWS,2021) https://aws.amazon.com/pt/education/awseducate/students/ </p>
 <p align="center"><img src="images/awseducate-registration/10.png"  width="900" height="435" align="middle"/></p>
 <h4 align="middle">Figura 10 - Termo de Uso Ambiente Vocareum</h4>
 
-<p align="justify">A Janela inicial do ambiente, Figura 11, apresenta um resumo dos créditos disponilizados para o aluno, assim como o botão de acesso para o console da AWS apresentado na seta vermalha. Ao clicar no botão <b><AWS Console/b> você será direcionado para a console de gerenciamento de serviços da AWS.</p>
+<p align="justify">A Janela inicial do ambiente, Figura 11, apresenta um resumo dos créditos disponilizados para o aluno, assim como o botão de acesso para o console da AWS apresentado na seta vermelha. Ao clicar no botão <b><AWS Console/b> você será direcionado para a console de gerenciamento de serviços da AWS.</p>
 <p align="center"><img src="images/awseducate-registration/11.png"  width="900" height="450" align="middle"/></p>
 <h4 align="middle">Figura 11 - Ambiente Vocareum</h4>
 
