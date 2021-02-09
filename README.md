@@ -24,3 +24,6 @@ Construindo um site estático com Amazon S3 [Clique Aqui](manuscript/anexos/labo
 Criando uma Instância Amazon EC2 [Clique Aqui](manuscript/anexos/laboratorios/ec2-instance.pdf)
 
 Criando uma VPC na AWS [Clique Aqui](manuscript/anexos/laboratorios/vpc.pdf)
+
+## Script
+Scripts Configuração Pacotes [Clique Aqui](https://docs.google.com/document/d/1g8ce4WlUvbOxfWTb1b9kLCoHEuakZlpZbfYuFZ0u6Gs/edit?usp=sharing)
