@@ -27,3 +27,5 @@ Criando uma VPC na AWS [Clique Aqui](manuscript/anexos/laboratorios/vpc.pdf)
 
 ## Script
 Scripts Configuração Pacotes [Clique Aqui](https://docs.google.com/document/d/1g8ce4WlUvbOxfWTb1b9kLCoHEuakZlpZbfYuFZ0u6Gs/edit?usp=sharing)
+
+Acesse o Quadro Branco [Clique Aqui](https://docs.google.com/document/d/1rNJNnljUsYGutOdv2_xCqZYwspSwQUZWCXLrIVFOMxk/edit?usp=sharing)
